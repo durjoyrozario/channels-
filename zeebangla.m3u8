@@ -4,11 +4,11 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://example.com/movie1/fileSequenceA.ts
+https://github.com/durjoyrozario/VOD/raw/main/aath-ident.ts
 #EXTINF:10.0,
-http://example.com/movie1/fileSequenceB.ts
+https://github.com/durjoyrozario/VOD/raw/main/aath-ident.ts
 #EXTINF:10.0,
-http://example.com/movie1/fileSequenceC.ts
+https://github.com/durjoyrozario/VOD/raw/main/aath-ident.ts
 #EXTINF:9.0,
-http://example.com/movie1/fileSequenceD.ts
+https://github.com/durjoyrozario/VOD/raw/main/aath-ident.ts
 #EXT-X-ENDLIST
